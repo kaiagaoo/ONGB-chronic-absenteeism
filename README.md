@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ONGB-chronic-absenteeism
 
 A dual-scale data analysis project integrating national education datasets and Oakland student-level data to identify early signals of chronic absenteeism and inform data-driven intervention strategies.
@@ -187,3 +188,5 @@ Two separate datasets were cleaned, each targeting a different analytical lens: 
 
 ## 3. Exploratory Data Analysis
 
+=======
+>>>>>>> ebf5aee (add drilled down folder with notebook, graphs, and README)

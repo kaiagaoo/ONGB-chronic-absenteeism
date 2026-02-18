@@ -1,0 +1,20 @@
+
+SAMPLE:
+  Boys: 5,377 students
+  Girls: 4,797 students
+  Total: 10,197 high school students
+
+CHRONIC ABSENTEEISM RATES:
+  Boys: 39.52%
+  Girls: 43.86%
+  Difference: 4.34 percentage points
+
+STATISTICAL TESTS:
+  1. Chi-Square Test: χ²=19.4872, p=0.000010 ***
+  2. Z-Test: z=-4.4346, p=0.000009 ***
+  3. T-Test: t=3.1342, p=0.001728 **
+  4. Effect Size: Cohen's d=0.0622 (Negligible effect)
+
+CONCLUSION:
+  Highly significant (p < 0.001)
+  Gender differences in high school chronic absenteeism are STATISTICALLY SIGNIFICANT.
